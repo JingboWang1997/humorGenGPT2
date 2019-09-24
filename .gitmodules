@@ -4,3 +4,6 @@
 [submodule "ctrl"]
 	path = ctrl
 	url = https://github.com/salesforce/ctrl.git
+[submodule "lm-human-preferences"]
+	path = lm-human-preferences
+	url = https://github.com/JingboWang1997/lm-human-preferences.git
